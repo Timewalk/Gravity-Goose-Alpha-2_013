@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 9f7fb998c3c7d5445adf5834f4f75f19
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mat_1: {fileID: 2800000, guid: b230da3bbfa0b7049b00ba5bea1fa82b, type: 3}
+  - mat_2: {fileID: 2800000, guid: 49df063b3455d304096cad72e762f36a, type: 3}
+  - mat_3: {fileID: 2800000, guid: 49df063b3455d304096cad72e762f36a, type: 3}
+  - mat_4: {fileID: 2800000, guid: f00b882038eb32241883ba86939151fe, type: 3}
+  - mat_5: {fileID: 2800000, guid: d77640b9aeade194bba01edc7a68aa98, type: 3}
+  - mat_6: {fileID: 2800000, guid: 2cbd455b03194904eb95d45dc6a7312e, type: 3}
+  - mat_7: {fileID: 2800000, guid: c9692f6f71d7d484ba570517e5f8ecd1, type: 3}
+  - mat_8: {fileID: 2800000, guid: 2e50aa81ba9e2b94eb7ed4cff738b45d, type: 3}
+  - mat_9: {fileID: 2800000, guid: 5a7a8857d374c314c8ba4c8568e3cae9, type: 3}
+  - mat_10: {fileID: 2800000, guid: 6d271f65d7fc6fe4181f09eb3985d585, type: 3}
+  - mat_11: {fileID: 2800000, guid: 6627ab05c274fd845824d60f60ead1b6, type: 3}
+  - mat_12: {fileID: 2800000, guid: 2d8ccfd3015b7b5478518105f9a8ef41, type: 3}
+  - mat_13: {fileID: 2800000, guid: 7f71ea81208b08d419dafc6257440149, type: 3}
+  - mat_14: {fileID: 2800000, guid: 412590cfb4d62384aaacad05eaebb595, type: 3}
+  - mat_15: {fileID: 2800000, guid: 0c0b64ac7e2e9c94e85792d2b58bfd26, type: 3}
+  - mat_16: {fileID: 2800000, guid: 94fe691a4c0185848b9d6e85fa5f2777, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
